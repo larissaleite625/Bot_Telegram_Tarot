@@ -19,3 +19,6 @@ Saturn Bot é um bot de Telegram que oferece conselhos personalizados de tarot u
 - SQLAlchemy
 - SQL Server
 - Microsoft Azure
+
+
+Link para o bot: https://t.me/SaturnTarotBot
